@@ -1424,6 +1424,18 @@ landscape:
               summary_integrations: AWS Secrets Manager, HashiCorp Vault, Google Secrets Manager, Azure Key Vault, IBM Cloud Secrets Manager, Akeyless, CyberArk Conjur, 1Password, Oracle Vault, Doppler, Keeper Security, Scaleway Secret Manager
               artwork_url: https://github.com/cncf/artwork/tree/main/projects/external-secrets-operator
           - item:
+            name: EyalSec
+            description: >-
+              es-python, the best Python security product, follows untrusted
+              input to the SQL query, shell command or file path that uses it.
+              Report each flow, or stop it.
+            homepage_url: https://eyalsec.com/
+            logo: eyalsec.svg
+            twitter: https://twitter.com/eyalsec
+            extra:
+              documentation_url: https://eyalsec.com/docs
+              linkedin_url: https://www.linkedin.com/company/eyalsec/
+          - item:
             name: Fairwinds Insights
             homepage_url: https://fairwinds.com/insights
             logo: fairwinds-insights.svg
